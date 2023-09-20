@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdolkadir Faghi Moriid</h1>
 <h3 align="center">A passionate Full Stack developer from somalia</h3>
-https://www.bing.com/images/search?view=detailV2&ccid=uGIdIh7U&id=C372BE93E90FCC6749E8F7326266AF8ECF6C5CFD&thid=OIP.uGIdIh7Um_O_Cry35-_uhwHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1019864%2fscreenshots%2f3079099%2fcodeloop.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b8621d221ed49bf3bf0abcb7e7efee87%3frik%3d%252fVxsz46vZmIy9w%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=animated+coding+gif&simid=608020121049713142&FORM=IRPRST&ck=4EF19D2214CEC58B8920F1B5FC19690A&selectedIndex=3&ajaxhist=0&ajaxserp=0
+https://www.bing.com/images/search?view=detailV2&ccid=KP%2bgAw3q&id=1B146E3A8C36DA3AA91F3CD61183F98F3F3E1BF4&thid=OIP.KP-gAw3qIkwNits2d5yjFwHaEK&mediaurl=https%3a%2f%2fcodecondo.com%2fwp-content%2fuploads%2f2014%2f02%2fDjango-Framework-Logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.28ffa0030dea224c0d8adb36779ca317%3frik%3d9Bs%252bP4%252f5gxHWPA%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1921&q=django+code&simid=607991916001044950&FORM=IRPRST&ck=D456A0CFCF8E30BA34F695DD39BE3BF5&selectedIndex=3&ajaxhist=0&ajaxserp=0
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-4229&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-4229" /> </p>
 
